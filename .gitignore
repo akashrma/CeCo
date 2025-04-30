@@ -1,0 +1,7 @@
+datasets/data
+datasets/data.zip
+CeCo_ETF_lr0.01_bs16_VOC_results
+checkpoints
+CeCo_regionETF_lr0.01_bs16_VOC_results
+CeCo_ETF_lr0.1_bs16_cityscapes_results
+Baseline_lr0.1_bs16_cityscapes_results
